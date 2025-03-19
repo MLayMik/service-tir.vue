@@ -2,5 +2,7 @@
 </script>
 
 <template>
-  <p>Service Tier</p>
+  <p class="font-garamod animate-fade-in">
+    Service Tier
+  </p>
 </template>
